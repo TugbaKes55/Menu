@@ -3,7 +3,8 @@ I designed a user-friendly interface that the pokedexs can be searched. I design
 
 # Preview
 
-![Uploading ScreenRecording5.08.202421-08-29-ezgif.com-video-to-gif-converter.gif…]()
+![ScreenRecording5 08 202421-08-29-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/70a0636a-cd98-430f-8fa6-26408fc68eec)
+
 
 
 
